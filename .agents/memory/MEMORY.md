@@ -1,0 +1,1 @@
+- [Casino VPS testing](casino-vps-testing.md) — The live bot runs on the user's VPS; test uploaded source with a separate token and isolated data.
